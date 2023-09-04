@@ -1,20 +1,12 @@
-<<<<<<< HEAD
-# weathe_application
 
-A new Flutter project.
+# Weathe_application
 
-## Getting Started
+Meu primeiro projeto Flutter! Recentemente tenho me deparado com mundo mobile e estou disposto a desvendar novas areas de atuação como desenvolvedor.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Sobre o projeto
+LOADING ... 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Apenas a primeira versão está disponivel, ainda não foi finalizado!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# WeatherPrevision
->>>>>>> a8f74d17cb0fd87c9f09849ae37d33fcae354dd5
+
